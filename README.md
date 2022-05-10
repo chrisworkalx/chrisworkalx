@@ -8,6 +8,13 @@
 
 <img align='right' src="https://profile-counter.glitch.me/chrisworkalx/count.svg" alt="访客数量"/>
 
+- 📚**前端框架**：Jquery + vue + react
+- 📚**前端H5**：H5 + react-native + uniapp
+- 📝**前端基础**：HTML + Javascript + Css
+- 💻**后端**：Java + Python + C++ + C#
+- 💼**数据库**：MySQL + Redis + MongoDB
+- 🔥**运维**：nginx + docker + gitlab
+
 ![](https://github-readme-stats.vercel.app/api?username=chrisworkalx&theme=dark)
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
