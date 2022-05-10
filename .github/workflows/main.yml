@@ -28,6 +28,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
@@ -35,7 +38,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: 更新wakatime README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
