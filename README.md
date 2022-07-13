@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 July 2022 - To: 11 July 2022
+From: 05 July 2022 - To: 12 July 2022
 
 Total Time: 1 hr 20 mins
 
