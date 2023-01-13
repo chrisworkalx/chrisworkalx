@@ -12,10 +12,10 @@
 <br />
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=chrisworkalx&show_icons=true&theme=dracula&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisworkalx&theme=dracula&show_icons=true" />
-</p>
+</p> -->
 
 - 📚**前端框架**：<font color=blue>Jquery + vue + react</font>
 - 📚**前端H5**：<font color=blue>H5 + react-native + uniapp</font>
