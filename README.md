@@ -20,9 +20,9 @@
 - 📚**前端框架**：<font color=blue>Jquery + vue + react</font>
 - 📚**前端H5**：<font color=blue>H5 + react-native + uniapp</font>
 - 📝**前端基础**：<font color=blue>HTML + Javascript + Css</font>
-- 💻**后端**：<font color=red>Java + Python + C++ + C#</font>
-- 💼**数据库**：<font color=red>MySQL + Redis + MongoDB</font>
-- 🔥**运维**：<font color=red>nginx + docker + gitlab</font>
+<!-- - 💻**后端**：<font color=red>Java + Python + C++ + C#</font> -->
+<!-- - 💼**数据库**：<font color=red>MySQL + Redis + MongoDB</font> -->
+<!-- - 🔥**运维**：<font color=red>nginx + docker + gitlab</font> -->
 
 <br />
 
